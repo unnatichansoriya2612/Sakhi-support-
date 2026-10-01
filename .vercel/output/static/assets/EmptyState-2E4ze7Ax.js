@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e();function n({title:e,description:n,action:r}){return(0,t.jsxs)(`div`,{className:`surface-card flex flex-col items-center gap-3 p-12 text-center`,children:[(0,t.jsx)(`h3`,{className:`text-lg font-semibold`,children:e}),n?(0,t.jsx)(`p`,{className:`max-w-md text-sm text-muted-foreground`,children:n}):null,r]})}export{n as t};
